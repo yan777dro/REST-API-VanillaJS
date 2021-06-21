@@ -7,3 +7,7 @@
 #### api/employees/id PATCH update employee by id
 #### api/employees DELETE  delete employee by id
 #### api/employees POST   add a new employee
+
+#### npm init
+#### npm install nodemon
+#### npm nodemon server
